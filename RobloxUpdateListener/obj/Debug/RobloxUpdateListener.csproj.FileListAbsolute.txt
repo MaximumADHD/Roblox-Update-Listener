@@ -1,0 +1,8 @@
+c:\users\mgartung\documents\visual studio 2015\Projects\RobloxUpdateListener\RobloxUpdateListener\bin\Debug\RobloxUpdateListener.exe.config
+c:\users\mgartung\documents\visual studio 2015\Projects\RobloxUpdateListener\RobloxUpdateListener\obj\Debug\RobloxUpdateListener.csprojResolveAssemblyReference.cache
+c:\users\mgartung\documents\visual studio 2015\Projects\RobloxUpdateListener\RobloxUpdateListener\bin\Debug\RobloxUpdateListener.exe
+c:\users\mgartung\documents\visual studio 2015\Projects\RobloxUpdateListener\RobloxUpdateListener\bin\Debug\RobloxUpdateListener.pdb
+c:\users\mgartung\documents\visual studio 2015\Projects\RobloxUpdateListener\RobloxUpdateListener\obj\Debug\RobloxUpdateListener.exe
+c:\users\mgartung\documents\visual studio 2015\Projects\RobloxUpdateListener\RobloxUpdateListener\obj\Debug\RobloxUpdateListener.pdb
+c:\users\mgartung\documents\visual studio 2015\Projects\RobloxUpdateListener\RobloxUpdateListener\obj\Debug\RobloxUpdateListener.Main.resources
+c:\users\mgartung\documents\visual studio 2015\Projects\RobloxUpdateListener\RobloxUpdateListener\obj\Debug\RobloxUpdateListener.csproj.GenerateResource.Cache
